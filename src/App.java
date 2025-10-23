@@ -7,5 +7,14 @@ public class App {
         String nombre = scanner.nextLine();
 
         System.out.println("Hola " + nombre);
+        scanner.close();
+        //Documentar
+        /** @author = "lgp"
+         * @version = "final"
+         * 
+         * 
+         * 
+         * 
+         */
     }
 }
